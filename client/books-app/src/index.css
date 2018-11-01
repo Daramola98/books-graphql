@@ -1,0 +1,8 @@
+body{
+  background: #eee;
+  font-family: 'Consolas';
+}
+
+.secondary-content{
+  cursor: pointer;
+}
